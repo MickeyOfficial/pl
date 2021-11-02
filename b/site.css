@@ -1,0 +1,133 @@
+	* {
+		margin: 0; 
+		padding: 0;
+		font-family: Roboto, Arial;
+		box-sizing: border-box;
+	}
+	body {background-color: #d6eaeaff;
+	}
+	article { background-image: url(s.jpg);
+	border-radius: 10px
+	}
+	article h2 { background-image: url(hey.jpeg);
+	border-radius: 10px
+	}
+	
+	
+	#wrapper {
+		max-width: 1100px;
+		margin: 0 auto;
+		background-color: white;
+	}
+	
+	header img {
+		width:100%;
+		display: block;
+	}
+	
+	nav {
+		background-color: white;
+	}
+	
+	a.menu {
+	display: inline-block;
+	width:22%;
+	padding: 10px 10px 10px 10px;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	border-radius: 5px;
+	margin: 10px 5px 10px 5px;
+	background-color: #0000FF;
+	}
+	a.menu:hover {
+		background-color: #000099;
+	}
+	
+	.disabled {
+		display: inline-block;
+	width:25%;
+	padding: 10px 10px 10px 10px;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	}
+	
+	article {
+		margin-top:30px;
+		margin-bottom:20px;
+		padding: 0 20px;
+		
+	}
+	
+	article h1 {
+		font-size: 30px;
+		text-align: center;
+		margin: 0 10% 20px 10%;
+		padding-bottom: 15px;
+		border-bottom: 2px solid crimson;
+	}
+	
+	img.left {
+		float:left;
+		margin: 0 10px 10px 0;
+		width:30%;
+		border-radius: 15% 15%;
+		
+	}
+	
+	img.right {
+		width:100%;
+		float: center;
+		padding: ;
+		border-radius: 0px 0px 15px 15px
+		
+	}
+	
+	article p {
+		text-align: center;
+		line-height: 35px;
+		font-size: 25px;
+		padding: 15px 0
+		}
+	
+	footer {
+		height: 40px;
+	background-color: lightgray;
+	color: red;
+	line-height: 40px;
+	text-align: center;
+	margin-top: 10px;
+	font-size: 16px;
+	font-family: arial;
+	border-radius: 5px 5px 0 0
+	}
+	
+	.btn {
+		text-align: center;
+		padding: 8px 10px;
+		border-style: none;
+		margin-top: 10px;
+		background-color: gray;
+		border-radius: 5px;
+		box-shadow: 0 0 0 0;
+		font-size: 16px;
+		font-family: arial;
+		text-decoration: none;
+		margin: 5px 5px 5px 5px;
+		color: white;
+		display: inline-block;
+		width:48%;
+		float: center
+	}
+	.btn:hover {
+		background-color: red;
+		color: black
+	}
+	
+	
+
+
+	
+	
+	

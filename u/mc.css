@@ -1,0 +1,158 @@
+	* {
+		margin: 0; 
+		padding: 0;
+		font-family: Roboto, Arial;
+		box-sizing: border-box;
+	}
+	body {background-color: #d6eaeaff;
+	}
+	article h2 { background-image: url(hey.jpeg);
+	border-radius: 10px
+	}
+	
+	
+	#wrapper {
+		max-width: 1100px;
+		margin: 0 auto;
+		background-color: white;
+	}
+	
+	header img {
+		width:100%;
+		display: block;
+	}
+	
+	nav {
+		background-color: white;
+	}
+	
+	a.menu {
+	display: inline-block;
+	width:22%;
+	padding: 10px 10px 10px 10px;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	border-radius: 5px;
+	margin: 10px 5px 10px 5px;
+	background-color: #0000FF;
+	}
+	a.menu:hover {
+		background-color: #000099;
+	}
+	
+	.disabled {
+		display: inline-block;
+	width:25%;
+	padding: 10px 10px 10px 10px;
+	color: black;
+	text-decoration: none;
+	text-align: center;
+	}
+	
+	article {
+		margin-top:30px;
+		margin-bottom:20px;
+		padding: 0 20px;
+	}
+	article p {
+		margin-top:30px;
+		margin-bottom:20px;
+		padding: 0 20px;
+		color: white
+	}
+	
+	article h1 {
+		font-size: 30px;
+		text-align: center;
+		margin: 0 10% 20px 10%;
+		padding-bottom: 15px;
+		border-bottom: 3px solid #00FF00;
+	}
+	ul {
+		font-size: 20px;
+		text-align: left;
+		margin: 0 50% 1px 10%;
+		padding-bottom: 5px;
+		color: back
+	}
+	
+	img.left {
+		float:left;
+		margin: 0 10px 10px 0;
+		width:30%;
+		border-radius: 10px;
+		
+	}
+	
+	img.right {
+		width:100%;
+		float: center;
+		padding: ;
+		border-radius: 0px 0px 15px 15px
+		
+	}
+	
+	article h3 {
+		text-align: center;
+		line-height: 40px;
+		font-size: 30px;
+		padding: 15px 0;
+		background-color: #ECEFF1;
+		border-radius: 10px
+		}
+	article b {
+		backgrond-color:#B0BEC5;
+		text-align: center;
+		line-height: 40px;
+		font-size: 30px;
+		padding: 15px 0;
+		}
+		
+	iframe {
+		width:100%;
+		float: center;
+		padding: 10px 200px 10px 200px;
+		border-radius: 25% 25%
+			
+		}
+	
+	footer {
+	height: 40px;
+	background-color: lightgray;
+	color: red;
+	line-height: 40px;
+	text-align: center;
+	margin-top: 10px;
+	font-size: 16px;
+	font-family: arial;
+	border-radius: 5px 5px 0 0
+}
+	
+	.new {
+		text-decoration:none;
+		color: red;
+		border-radius: 5px;
+		
+	}
+	.new:hover {
+	background-color: #33FF99
+	}
+
+	
+	.bug {
+		border-radius: 2px;
+		float: center;
+		display: inline-block;
+		width: 80%
+	}
+	h0 {
+		margin:0 0 0 100px;
+		color: red;
+		font-size: 15px
+	}
+	
+	
+	
+	
+	
